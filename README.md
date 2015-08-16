@@ -1,4 +1,4 @@
-# Six-Degrees-of-Kevin-Bacon
+# Six-Degrees-of-Kevin-Bacon  #Breadth First Search
 Search the degrees of actors/actresses with other actors/actresses and get the connection between them.
 
 
